@@ -19,12 +19,12 @@ Add this to your `~/.config/yazi/keymap.toml`:
 
 ```toml
 [[mgr.prepend_keymap]]
-on  = "<C-f>"
+on  = "<C-t>"
 run = "plugin tv"
 desc = "Jump to a file via television"
 
 [[mgr.prepend_keymap]]
-on  = "<C-t>"
+on  = "<C-f>"
 run = "plugin tv text"
 desc = "Open files using neovim and jump to where the string is located"
 ```
