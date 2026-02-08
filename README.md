@@ -1,3 +1,5 @@
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/50d9e5f1-1a4d-4a5a-9593-cf7ac4df2143" />
+
 ## Dependencies
 
 * [`television`](https://github.com/alexpasmantier/television)
