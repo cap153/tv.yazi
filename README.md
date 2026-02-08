@@ -3,6 +3,8 @@
 ## Dependencies
 
 * [`television`](https://github.com/alexpasmantier/television)
+* [`fd`](https://github.com/sharkdp/fd)
+* [`ripgrep`](https://github.com/BurntSushi/ripgrep)
 
 ## Installation
 
