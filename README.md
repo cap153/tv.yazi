@@ -13,7 +13,7 @@ ya pkg add cap153/tv
 ## Usage
 
 > [!WARNING]
-> I only tested the built-in `files` and `text` Channel.
+> I only tested the built-in `files`, `dirs` and `text` Channel.
 
 Add this to your `~/.config/yazi/keymap.toml`:
 
@@ -22,6 +22,11 @@ Add this to your `~/.config/yazi/keymap.toml`:
 on  = "<C-t>"
 run = "plugin tv"
 desc = "Jump to a file via television"
+
+[[mgr.prepend_keymap]]
+on  = "<C-d>"
+run = "plugin tv"
+desc = "Jump to a directory via television"
 
 [[mgr.prepend_keymap]]
 on  = "<C-f>"
