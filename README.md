@@ -25,7 +25,7 @@ desc = "Jump to a file via television"
 
 [[mgr.prepend_keymap]]
 on  = "<C-d>"
-run = "plugin tv"
+run = "plugin tv dirs"
 desc = "Jump to a directory via television"
 
 [[mgr.prepend_keymap]]
