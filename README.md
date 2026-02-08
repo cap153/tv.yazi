@@ -12,8 +12,8 @@ ya pkg add cap153/tv
 
 ## Usage
 
-> [Warning]
-> I only tested the built-in `files` and `text` Channels
+> [!WARNING]
+> I only tested the built-in `files` and `text` Channel.
 
 Add this to your `~/.config/yazi/keymap.toml`:
 
