@@ -19,7 +19,7 @@ Add this to your `~/.config/yazi/keymap.toml`:
 
 ```toml
 [[mgr.prepend_keymap]]
-on  = "<C-t>"
+on  = "<C-f>"
 run = "plugin tv"
 desc = "Jump to a file via television"
 
